@@ -1,0 +1,9 @@
+[{
+        "TITLE": "Harry",
+        "PORT": "3000"
+    },
+    {
+        "TEAM": ["Person1", "Person2", "Person3"],
+        "SEVERITY": ["Low", "Medium", "High"]
+    }
+]
